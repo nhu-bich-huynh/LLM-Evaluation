@@ -1,2 +1,3 @@
 rouge
 nltk
+-q -U google-genai
