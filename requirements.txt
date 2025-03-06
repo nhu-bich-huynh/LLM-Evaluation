@@ -2,3 +2,4 @@ rouge
 nltk
 random-word
 google-genai
+Levenshtein
