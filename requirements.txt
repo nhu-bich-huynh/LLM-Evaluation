@@ -4,3 +4,4 @@ random_word
 google-genai
 Levenshtein
 pandas
+import-ipynb
