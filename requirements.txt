@@ -1,2 +1,6 @@
 rouge
 nltk
+random_word
+google-genai
+Levenshtein
+pandas
