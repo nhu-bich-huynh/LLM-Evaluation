@@ -3,4 +3,10 @@ nltk
 random_word
 google-genai
 Levenshtein
+<<<<<<< HEAD
 pandas
+=======
+pandas
+import-ipynb
+matplotlib
+>>>>>>> origin/main
