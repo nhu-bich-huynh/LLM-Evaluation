@@ -6,3 +6,5 @@ Levenshtein
 pandas
 import-ipynb
 matplotlib
+scikit-learn
+krippendorff
